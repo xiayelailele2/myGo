@@ -8,6 +8,7 @@ public class MasterSubmit {
     }
     public void say(){
         System.out.println("say something!");
+        System.out.println("或许是这样");
     }
 
 }
