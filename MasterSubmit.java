@@ -5,4 +5,8 @@ public class MasterSubmit {
         System.out.println("master合并之前");
         System.out.println("master合并之后01");
     }
+    public void say(){
+        System.out.println("say something!");
+    }
+
 }
